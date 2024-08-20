@@ -14,8 +14,8 @@
 
 Клонируйте репозиторий:
 ```bash
-git clone <URL_вашего_репозитория>
-cd <имя_папки_репозитория>
+git clone https://github.com/loryaru/cli-library.git
+cd cli-library
 ```
 Создайте виртуальное окружение:
 ```bash
